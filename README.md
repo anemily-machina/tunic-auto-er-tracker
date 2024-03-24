@@ -17,11 +17,18 @@ USER_NAME\\Documents\\2024-1-31_12.50.50_tunic-tracker.txt
 ```
 
 and when this file updates so will the tracker
-Stope Watching: Stop watching the save file so updates are no longer automatic
+
+Stop Watching: Stop watching the save file so updates are no longer automatic
 
 The auto tracker scripts is a python file located at
 
 auto_tracker/auto_tracker.py
+
+open the folder that contains index.html in the command line and run
+
+```
+python auto_tracker/auto_tracker.py
+```
 
 This will require Python 3.10+ to run: https://www.python.org/downloads/
 
