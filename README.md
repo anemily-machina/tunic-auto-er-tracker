@@ -6,7 +6,7 @@ The automation ability only works in Chromium based browsers and with the spoile
 
 This webpage behaves the same as the original entrace tracker except it has two new buttons in settings.
 
-![alt text](settings_menu.PNG)
+![A screen cap of the new settings menu with the two new buttons "pick fie" and "stop watching" higlighted in red. the new buttons are between the Reset Tracker buttn and smooth images checkbox ](settings_menu.PNG)
 
 # Origainl Tunic Entrance Tracker
 
