@@ -1,4 +1,4 @@
-#How to Use
+# How to Use
 
 To use this, download the source code zip and open the file called "index.html" with your browser.
 
