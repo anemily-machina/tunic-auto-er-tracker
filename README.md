@@ -4,6 +4,8 @@ To use this, download the source code zip and open the file called "index.html" 
 
 The automation ability only works in Chromium based browsers, with the spoiler enabled, and if things are in the default windows places. If you want to try getting the auto tracker to work under other conditions feel free to ask for help.
 
+Probably compatible with Ranomizer Mod 3.0.2 (probably compatible with 3.1.0)
+
 This webpage behaves the same as the original entrace tracker except it has two new buttons in settings.
 
 ![A screen cap of the new settings menu with the two new buttons "pick file" and "stop watching" higlighted in red. the new buttons are between the Reset Tracker buttn and smooth images checkbox ](settings_menu.PNG)
@@ -17,6 +19,9 @@ auto_tracker/auto_tracker.py
 
 This will require Python 3.10+ to run: https://www.python.org/downloads/
 
+When installing Python make sure to click the option to add python.exe to the PATH.
+
+![The python isntall menu with the add to path option highlighted and selected](python.PNG)
 
 
 # Origainl Tunic Entrance Tracker
