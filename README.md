@@ -10,7 +10,13 @@ This webpage behaves the same as the original entrace tracker except it has two 
 
 ![A screen cap of the new settings menu with the two new buttons "pick file" and "stop watching" higlighted in red. the new buttons are between the Reset Tracker buttn and smooth images checkbox ](settings_menu.PNG)
 
-Pick File: Choose the tunic file that is created by the auto tracking script located at USER_NAME\\Documents\\2024-1-31_12.50.50_tunic-tracker.txt and when this file updates so will the tracker
+Pick File: Choose the tunic file that is created by the auto tracking script located at 
+
+```
+USER_NAME\\Documents\\2024-1-31_12.50.50_tunic-tracker.txt
+```
+
+and when this file updates so will the tracker
 Stope Watching: Stop watching the save file so updates are no longer automatic
 
 The auto tracker scripts is a python file located at
