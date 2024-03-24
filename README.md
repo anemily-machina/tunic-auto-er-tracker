@@ -2,11 +2,22 @@
 
 To use this, download the source code zip and open the file called "index.html" with your browser.
 
-The automation ability only works in Chromium based browsers and with the spoiler enabled.
+The automation ability only works in Chromium based browsers, with the spoiler enabled, and if things are in the default windows places. If you want to try getting the auto tracker to work under other conditions feel free to ask for help.
 
 This webpage behaves the same as the original entrace tracker except it has two new buttons in settings.
 
-![A screen cap of the new settings menu with the two new buttons "pick fie" and "stop watching" higlighted in red. the new buttons are between the Reset Tracker buttn and smooth images checkbox ](settings_menu.PNG)
+![A screen cap of the new settings menu with the two new buttons "pick file" and "stop watching" higlighted in red. the new buttons are between the Reset Tracker buttn and smooth images checkbox ](settings_menu.PNG)
+
+Pick File: Choose the tunic file that is created by the auto tracking script located at USER_NAME\\Documents\\2024-1-31_12.50.50_tunic-tracker.txt and when this file updates so will the tracker
+Stope Watching: Stop watching the save file so updates are no longer automatic
+
+The auto tracker scripts is a python file located at
+
+auto_tracker/auto_tracker.py
+
+This will require Python 3.10+ to run: https://www.python.org/downloads/
+
+
 
 # Origainl Tunic Entrance Tracker
 
