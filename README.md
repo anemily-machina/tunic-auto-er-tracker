@@ -6,7 +6,7 @@ The automation ability only works in Chromium based browsers and with the spoile
 
 This webpage behaves the same as the original entrace tracker except it has two new buttons in settings.
 
-![alt text](https://github.com/anemily-machina/tunic-auto-er-tracker/blob/main/settings_menu.png?raw=true)
+![alt text](settings_menu.PNG)
 
 # Origainl Tunic Entrance Tracker
 
