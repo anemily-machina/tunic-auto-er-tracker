@@ -39,7 +39,7 @@ When installing Python make sure to click the option to add python.exe to the PA
 
 # Origainl Tunic Entrance Tracker
 
-This is most a copy of Scipio's Tunic Entrance Tracker https://scipiowright.gitlab.io/tunic-tracker/
+This is mostly a copy of Scipio's Tunic Entrance Tracker https://scipiowright.gitlab.io/tunic-tracker/
 
 Which was a fork of...
 
