@@ -1,4 +1,4 @@
-#How to Use
+# How to Use
 
 To use this, download the source code zip and open the file called "index.html" with your browser.
 
@@ -10,12 +10,25 @@ This webpage behaves the same as the original entrace tracker except it has two 
 
 ![A screen cap of the new settings menu with the two new buttons "pick file" and "stop watching" higlighted in red. the new buttons are between the Reset Tracker buttn and smooth images checkbox ](settings_menu.PNG)
 
-Pick File: Choose the tunic file that is created by the auto tracking script located at USER_NAME\\Documents\\2024-1-31_12.50.50_tunic-tracker.txt and when this file updates so will the tracker
-Stope Watching: Stop watching the save file so updates are no longer automatic
+Pick File: Choose the tunic file that is created by the auto tracking script located at 
+
+```
+USER_NAME\\Documents\\2024-1-31_12.50.50_tunic-tracker.txt
+```
+
+and when this file updates so will the tracker
+
+Stop Watching: Stop watching the save file so updates are no longer automatic
 
 The auto tracker scripts is a python file located at
 
 auto_tracker/auto_tracker.py
+
+open the folder that contains index.html in the command line and run
+
+```
+python auto_tracker/auto_tracker.py
+```
 
 This will require Python 3.10+ to run: https://www.python.org/downloads/
 
@@ -26,7 +39,7 @@ When installing Python make sure to click the option to add python.exe to the PA
 
 # Origainl Tunic Entrance Tracker
 
-This is most a copy of Scipio's Tunic Entrance Tracker https://scipiowright.gitlab.io/tunic-tracker/
+This is mostly a copy of Scipio's Tunic Entrance Tracker https://scipiowright.gitlab.io/tunic-tracker/
 
 Which was a fork of...
 
